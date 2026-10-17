@@ -7,6 +7,29 @@ All notable changes to the Misaka Network project are documented here.
 
 ---
 
+## [2.45.0](https://github.com/Ikalus1988/MisakaNet/compare/v2.44.2...v2.45.0) (2026-10-17)
+
+
+### Features
+
+* **dsh-panel:** read where the corpus has no answer yet (section ⑦) ([#3351](https://github.com/Ikalus1988/MisakaNet/issues/3351)) ([4adc4e5](https://github.com/Ikalus1988/MisakaNet/commit/4adc4e5b9b119d33448993dc9e1ae725ba8ce672))
+* **dsh-panel:** show the corpus's most-retrieved lessons in the review panel ([#3357](https://github.com/Ikalus1988/MisakaNet/issues/3357)) ([678adb2](https://github.com/Ikalus1988/MisakaNet/commit/678adb26300f929e5687bb758776e2c00e9c9adc))
+
+
+### Bug Fixes
+
+* **contribute:** the contribution path tells the truth about what it drops ([#3365](https://github.com/Ikalus1988/MisakaNet/issues/3365)) ([dfdc60f](https://github.com/Ikalus1988/MisakaNet/commit/dfdc60f37287370c77c8bbd58db02c180b797e0a))
+* **evidence:** E4 is observed, not declared — distinct clients, not a line in the lesson ([#3358](https://github.com/Ikalus1988/MisakaNet/issues/3358)) ([babf2ed](https://github.com/Ikalus1988/MisakaNet/commit/babf2edf4403f7261f0a352c83d8fc35b6a384bf))
+* **site-watch:** follow `dist`, the branch that now deploys the site ([#3390](https://github.com/Ikalus1988/MisakaNet/issues/3390)) ([5b94323](https://github.com/Ikalus1988/MisakaNet/commit/5b943235000cb45a25af4ea5b8041f59c3702de1))
+
+
+### Documentation
+
+* **ci:** 按第一性原理量一遍 84 个 workflow：约 20 种失败面，本 PR 不删任何 workflow ([#3360](https://github.com/Ikalus1988/MisakaNet/issues/3360)) ([e52d63c](https://github.com/Ikalus1988/MisakaNet/commit/e52d63c8029d3e33a9f58fb49f78dd7fcac4e117))
+* **maintainer:** write down the lens that would have caught the vote button ([#3350](https://github.com/Ikalus1988/MisakaNet/issues/3350)) ([e54b73e](https://github.com/Ikalus1988/MisakaNet/commit/e54b73e0c7fd54ee5c69042b3c50ad26b73e3980))
+* **ops:** the branch and worktree hygiene rules, including the criterion I got wrong ([#3391](https://github.com/Ikalus1988/MisakaNet/issues/3391)) ([5bd9d76](https://github.com/Ikalus1988/MisakaNet/commit/5bd9d769cd8f75326eea5704b7cb675e7da7154d))
+* write down the owner's standing decision rule, where every session will read it ([#3363](https://github.com/Ikalus1988/MisakaNet/issues/3363)) ([9174424](https://github.com/Ikalus1988/MisakaNet/commit/9174424371ac13bb64a46d891b6d9cfc2d9d83db))
+
 ## [2.44.2](https://github.com/Ikalus1988/MisakaNet/compare/v2.44.1...v2.44.2) (2026-10-16)
 
 
